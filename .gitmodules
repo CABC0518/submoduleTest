@@ -1,0 +1,4 @@
+[submodule "sarinvaisanen/nv-integration"]
+	path = sarinvaisanen/nv-integration
+	url = git@github.com:sarinvaisanen/nv-integration.git
+	branch = master
